@@ -1,4 +1,7 @@
 <?
+
+error_reporting(0);
+
 $database = "mydb";
 $user = "root";
 $password = "secret";
